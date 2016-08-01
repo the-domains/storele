@@ -6,9 +6,9 @@ color:
   saturation: 0.45556987542659044
   rhythmicContrast: 0.9058297532610595
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#ABABAB'
+    - '#5B5F62'
+    - '#163240'
+    - '#FAFDFF'
 name: StoreLE
