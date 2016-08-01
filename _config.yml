@@ -1,4 +1,3 @@
-layout_spectrum: 0.5249622820410877
 typography_spectrum: 0.865019460208714
 color:
   brandStrength: 0.1934644270222634
@@ -11,8 +10,10 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.5249622820410877
 name: StoreLE
 navigation:
   - name: 'Bistro Proti Proudu, Prague, Czech Republic '
     id: 272ef89f-c0ca-4f2d-9274-0c3643cc0370
     type: content
+title: Lowest Everything here
