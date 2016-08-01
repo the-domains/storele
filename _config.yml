@@ -6,9 +6,13 @@ color:
   saturation: 0.45556987542659044
   rhythmicContrast: 0.9058297532610595
   brandColors:
-    - '#000000'
-    - '#ABABAB'
-    - '#5B5F62'
-    - '#163240'
-    - '#FAFDFF'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: StoreLE
+navigation:
+  - name: 'Bistro Proti Proudu, Prague, Czech Republic '
+    id: 272ef89f-c0ca-4f2d-9274-0c3643cc0370
+    type: content
