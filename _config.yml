@@ -1,0 +1,14 @@
+layout_spectrum: 0.5249622820410877
+typography_spectrum: 0.865019460208714
+color:
+  brandStrength: 0.1934644270222634
+  lightness: 0.15821222262457013
+  saturation: 0.45556987542659044
+  rhythmicContrast: 0.9058297532610595
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: StoreLE
