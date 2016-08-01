@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[StoreLE]]></title>
         <description><![CDATA[StoreLE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/storele/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 11:15:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Aug 2016 11:18:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/storele/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bistro Proti Proudu, Prague, Czech Republic ]]></title>
             <description><![CDATA[<article><h1>Bistro Proti Proudu, Prague, Czech Republic </h1><p>With an ever-growing number of cool cafés, wine bars and shops, Prague's Karlín district is fast becoming a haven for the hip set. Its latest arrival, is Bistro Proti, a cosy corner eatery with a sleek interior inspired by the neighbourhood's most significant historical figure, engineer František Križík.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1fd22919c3e43a0e413c38e19bb8ca598161339.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/travel/czech-republic/prague/restaurants/bistro-proti-proudu</link>
+            <link>https://thegrid.ai/storele/bistro-proti-proudu-prague-czech-republic/index.html</link>
             <guid isPermaLink="false">272ef89f-c0ca-4f2d-9274-0c3643cc0370</guid>
-            <pubDate>Mon, 01 Aug 2016 11:15:31 GMT</pubDate>
+            <pubDate>Mon, 01 Aug 2016 11:18:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
