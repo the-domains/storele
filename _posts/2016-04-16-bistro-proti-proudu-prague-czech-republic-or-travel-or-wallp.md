@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-01T11:15:31.896Z'
+datePublished: '2016-08-01T11:18:41.694Z'
 sourcePath: >-
   _posts/2016-04-16-bistro-proti-proudu-prague-czech-republic-or-travel-or-wallp.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/travel/czech-republic/prague/restaurants/bistro-proti-proudu
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - konecn
   - proti
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-01T11:15:31.275Z'
+dateModified: '2016-08-01T11:18:41.034Z'
 title: 'Bistro Proti Proudu, Prague, Czech Republic '
 app_links: []
 publisher:
@@ -39,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: bistro-proti-proudu-prague-czech-republic/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
