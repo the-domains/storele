@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SLE]]></title>
         <description><![CDATA[SLE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/storele/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 11:29:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Aug 2016 11:33:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/storele/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sunset ]]></title>
+            <description><![CDATA[<article><h1>Sunset </h1><p>sunset at its rare </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff3c9003-7f40-4e57-9f0a-cdcf568cb4a4.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff3c9003-7f40-4e57-9f0a-cdcf568cb4a4.jpg</link>
+            <guid isPermaLink="false">77dd7f73-2ba9-4278-80fe-44490d16f689</guid>
+            <pubDate>Mon, 01 Aug 2016 11:32:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13b9aa18-7411-42d7-971c-de174b5fe377.jpg">]]></description>
-            <link>undefinedda00fee1-9222-4ccc-855c-c0696f3052ea/index.html</link>
+            <link>https://thegrid.ai/storele/da00fee1-9222-4ccc-855c-c0696f3052ea/index.html</link>
             <guid isPermaLink="false">da00fee1-9222-4ccc-855c-c0696f3052ea</guid>
             <pubDate>Mon, 01 Aug 2016 11:29:08 GMT</pubDate>
         </item>
