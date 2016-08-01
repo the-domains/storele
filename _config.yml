@@ -12,9 +12,6 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.5249622820410877
 name: StoreLE
-navigation:
-  - name: 'Bistro Proti Proudu, Prague, Czech Republic '
-    id: 272ef89f-c0ca-4f2d-9274-0c3643cc0370
-    type: content
+navigation: []
 title: SLE
 description: Your place to find lowest everything here
